@@ -15,7 +15,7 @@ The Student Management System is a comprehensive web-based application designed 
 ## Technologies Used
 - Database Management System: [MySQL](https://www.mysql.com)
 - Front-end Technologies: HTML, CSS, JavaScript
-- Additional Libraries/Frameworks: [Thymeleaf](https://www.thymeleaf.org), [Hibernate](https://hibernate.org)
+
 
 ## Installation and Setup
 1. Clone the repository.
